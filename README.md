@@ -1,3 +1,22 @@
+# 💫 Hi 👋, I'm Nitish kumar
+**A passionate Java FullStack  Engineer || Web devloper || Siwan from India**
+
+Email Me 👉 ✉️ **thedarkmancoder.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Resumint.co.in
+- 🌱 **I’m currently learning:** DSA In Java
+- 👯 **I’m looking to collaborate on:** Enter your Resumint and its a resume and cv builder website.
+- 🤔 **I’m looking for help with:** Resumint.co.in
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** thedarkmancoder@gmail.com
+- 😄 **Pronouns:** Darkmancoder
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitish-kumar-330863326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thedarkmancoder@gmail.com) 
