@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **thedarkmancoder.com** For Collaboration/Project or Anythi
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/Thedarkmancoder/Thedarkmancoder/output/github-snake-pink.svg" alt="Contribution snake"/>
 </div>
 
 ## 🌐 Socials:
